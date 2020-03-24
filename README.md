@@ -12,7 +12,7 @@
 >
 > *Best of luck to you!*
 
-<details>
+<details><extra>
 <summary>Translations:</summary>
 
 - [中文版本](translations/README-cn.md)
